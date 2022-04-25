@@ -2,7 +2,7 @@
 [Desktop Entry]
 Name=4K Video Downloader
 GenericName=4K Video Downloader
-Comment=Download online video
+Comment=Baixador de vídeos online
 Exec=4kvideodownloader
 Terminal=false
 Type=Application
