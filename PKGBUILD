@@ -1,7 +1,7 @@
 # Maintainer: Muflone http://www.muflone.com/contacts/english/
 
 pkgname=4kvideodownloader
-pkgver=4.20.3.4830
+pkgver=4.20.4.4870
 pkgrel=1
 pkgdesc="Quickly download videos from YouTube in high-quality"
 arch=('x86_64')
