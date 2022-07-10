@@ -13,8 +13,8 @@ source=("${pkgname}_${pkgver}_amd64.tar.bz2"::"https://dl.4kdownload.com/app/${p
         "${pkgname}.desktop"
         "${pkgname}.svg"
         "fix_symlink_path.patch")
-sha256sums=('b7876a0771db5532485754b2a73df36f142e6c00793157fd37c47d9cb02727fa'
-            'b2e0ac155419e6c297813558cd0502b374683e7d95f2d7e9bcc9be0645ffaefa'
+sha256sums=('3ad11c9c851919bfa3d2a70196c32848b04e6bd26b792fac9710b42004d7e58a'
+            '78bdc7becf7124e2917547a0b66ec6e10ec397900cb49a685ca589dba5321967'
             '5c169ea486d1d9b50e0f510d6bc90901ff72162e3996b60f70ce574e58d173cb'
             '2b5a9c262ff7b832eafbfb0e027b676a8be44f9c527b99ac00bd8379fc709668')
 
